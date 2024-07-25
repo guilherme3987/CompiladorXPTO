@@ -119,7 +119,7 @@ A linguagem suporta as seguintes construções:
 - **Erro: Esperado '=' após identificador**: Declaração de variável deve ser seguida por uma atribuição.
 ## Exemplos de Arquivo de Entrada
 
-### Exemplo 1
+### Exemplo 
 
 ```plaintext
 inicio
