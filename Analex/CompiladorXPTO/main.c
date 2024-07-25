@@ -6,7 +6,7 @@
 
 int main()
 {
-    FILE *fd = fopen("C:/Users/guilh/OneDrive/Documentos/CompiladorXPTO/Analex/CompiladorXPTO/xpto.dbk", "r");
+    FILE *fd = fopen("xpto.dbk", "r");
     if (fd == NULL)
     {
         printf("Erro ao abrir o arquivo.\n");
