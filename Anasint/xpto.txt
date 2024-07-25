@@ -1,0 +1,25 @@
+inicio
+    inteiro x;
+    x = 5;
+    imprime "O valor de x é: ";
+    imprime x;
+fim
+
+inicio
+    inteiro x;
+    x = 10;
+    se x > 5 entao
+        imprime "x é maior que 5";
+    senao
+        imprime "x é 5 ou menor";
+    fimse
+fim
+
+inicio
+    inteiro i;
+    i = 0;
+    enquanto i < 10 faca
+        imprime i;
+        i = i + 1;
+    fimenquanto
+fim

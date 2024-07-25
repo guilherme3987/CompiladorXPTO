@@ -1,0 +1,15 @@
+inicio
+    inteiro x = 10;
+    inteiro y = 20;
+    string mensagem = " resultado ";
+    se ( x = 10 ) entao {
+        imprima "x  igual a 10";
+    } senao {
+        imprima "x nao e igual a 10";
+    }
+    enquanto (x < y)faca {
+        imprima mensagem + x;
+        x = x + 1;
+    }
+    imprima "fim do loop.";
+fim
