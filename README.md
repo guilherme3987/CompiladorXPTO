@@ -17,9 +17,9 @@ Linguagem XPTO é uma linguagem criada por mim para facilitar estudos de algorit
 #### 2) Símbolos
 
 - **=:** para atribuição
-- **+, -, *, >, >=, <, <=:** para operações matemáticas
+- **+, -, *, >, >=, <, <=:*,\* para operações matemáticas
 - **!=:** para comparação de diferença
-- **{ } ():** para delimitação de blocos
+- **{ } ():,;** para delimitação de blocos
 - **" ":** para delimitar strings
 
 #### 3) Strings
