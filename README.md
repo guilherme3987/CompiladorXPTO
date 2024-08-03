@@ -78,7 +78,7 @@ fim
 inicio
     inteiro i
     i = 0
-    enquanto i < 10 faça
+    enquanto i < 10 faca
         imprima i
         i = i + 1
     fimenquanto
