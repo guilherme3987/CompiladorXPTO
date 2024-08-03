@@ -96,10 +96,10 @@ A linguagem suporta as seguintes construções:
 - **Bloco de programa**: O programa deve começar com `inicio` e terminar com `fim`.
 - **Declaração de variáveis**: Suporta declaração de variáveis do tipo `inteiro`.
 - **Atribuição**: Atribuição de valores a variáveis utilizando `=`.
-- **Impressão**: Impressão de valores com o comando `imprime`.
+- **Impressão**: Impressão de valores com o comando `imprima`.
 - **Estruturas de controle**:
-  - Condicionais: `se ... entao ... senao ... fimse`
-  - Loops: `enquanto ... faca ... fimenquanto`
+  - Condicionais: `se ... entao ... senao ... `
+  - Loops: `enquanto ... faca ... `
 
 ## Funções do Analisador Sintático
 
