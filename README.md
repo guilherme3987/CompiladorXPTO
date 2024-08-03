@@ -53,8 +53,8 @@ Aqui estão alguns exemplos de código na linguagem:
 inicio
     inteiro x
     x = 5
-    imprime "O valor de x é: "
-    imprime x
+    imprima "O valor de x é: "
+    imprima x
 fim
 ```
 
@@ -65,9 +65,9 @@ inicio
     inteiro x
     x = 10
     se x > 5 entao
-        imprime "x é maior que 5"
+        imprima "x é maior que 5"
     senao
-        imprime "x é 5 ou menor"
+        imprima "x é 5 ou menor"
     fimse
 fim
 ```
@@ -79,7 +79,7 @@ inicio
     inteiro i
     i = 0
     enquanto i < 10 faça
-        imprime i
+        imprima i
         i = i + 1
     fimenquanto
 fim
