@@ -51,10 +51,12 @@ Aqui estão alguns exemplos de código na linguagem:
 
 ```plaintext
 inicio
+    bloco{
     inteiro x
     x = 5
     imprima "O valor de x é: "
     imprima x
+    }
 fim
 ```
 
@@ -62,13 +64,15 @@ fim
 
 ```plaintext
 inicio
-    inteiro x
-    x = 10
-    se x > 5 entao
+    bloco1{
+    inteiro x;
+    x = 10;
+    se (x > 5) entao
         imprima "x é maior que 5"
     senao
-        imprima "x é 5 ou menor"
+        imprima "x é 5 ou menor";
     fimse
+    }
 fim
 ```
 
@@ -76,12 +80,18 @@ fim
 
 ```plaintext
 inicio
-    inteiro i
-    i = 0
+    bloco1{
+    inteiro i;
+    i = 0;
     enquanto i < 10 faca
-        imprima i
-        i = i + 1
+        imprima i;
+        i = i + 1;
     fimenquanto
+    }
+    bloco2{
+ 
+     imprima "bloco 2";  
+    }
 fim
 ```
 
