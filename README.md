@@ -96,6 +96,8 @@ A linguagem suporta as seguintes construções:
 - **Bloco de programa**: O programa deve começar com `inicio` e terminar com `fim`.
 - **Declaração de variáveis**: Suporta declaração de variáveis do tipo `inteiro`.
 - **Atribuição**: Atribuição de valores a variáveis utilizando `=`.
+- -**Igualdade**: Estabele igualdade utilizando `==`
+- - **Operações matemáticas**: Suporte para operações matemáticas de soma,subtração,multiplicação,divisão e precedência de operadores.
 - **Impressão**: Impressão de valores com o comando `imprima`.
 - **Estruturas de controle**:
   - Condicionais: `se ... entao ... senao ... `
